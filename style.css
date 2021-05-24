@@ -1,0 +1,41 @@
+.body_background{
+    background-image: url("op.jpeg");
+    background-size: cover;;
+}
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 20px;
+}
+#lol{
+    font-size: 15px;
+    color: black;
+}
+
+.speed{
+float: right;
+}
+.speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+.volume{
+    float: right;
+    margin-right: 100px;
+  
+    }
+    .volume_img{
+        width: 200px;
+        border-radius: 100px;
+    }
+.play_button{
+width: 130px;
+font-size: 25px;
+float: left;
+margin-left: 300px;
+margin-top: 0px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
